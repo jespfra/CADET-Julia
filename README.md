@@ -3,7 +3,7 @@
  
  CADET-Julia is a fast and accurate solver for solving (typically) chromatography models. 
 
- For more details about CADET, see [github.com/modsim/CADET](https://github.com/modsim/CADET) or their [webpage](https://cadet.github.io/master/index.html#)
+ For more details about CADET, see [github.com/modsim/CADET](https://github.com/modsim/CADET) or their [webpage](https://cadet.github.io/master/index.html#).
  
 
  ## Examples
