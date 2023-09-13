@@ -15,7 +15,7 @@
  ## Collaboration
  This project is a collaboration between the Technical Uniersity of Denmark (DTU) and Forschungszentrum Jülich. 
  
- Authors involed in this project are
+ Authors involed in this project are:
  - Jesper Frandsen
  - Jan Breuer
  - Johannes Schmölder
